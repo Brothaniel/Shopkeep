@@ -19,3 +19,11 @@ client.on('message', message => {
        message.reply('pong');
 
        }
+
+});
+
+ 
+
+// THIS  MUST  BE  THIS  WAY
+
+client.login(process.env.NjQyMDg1OTY3NDQzOTE4ODQ4.XcR5TA.O1P7nGP7xKdJCjVqaSL5ixGd2Ms);//BOT_TOKEN is the Client Secret
